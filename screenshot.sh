@@ -1,4 +1,6 @@
 #!/bin/bash
+#author: Wesley Ellis (@tahnok on twitter)
+
 screenshot='screenshot';
 nano=`date '+%d-%m-%y-%N'`;
 extension='.png';
